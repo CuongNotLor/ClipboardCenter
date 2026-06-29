@@ -27,7 +27,9 @@ This application made with Antigravity using Claude.
 I'm vide code it.
 ## Screenshot
 <img width="364" height="482" alt="image" src="https://github.com/user-attachments/assets/d74770ea-d432-4265-ab99-f7f9814bbc55" />
+
 - Menu bar mode
 <img width="360" height="482" alt="image" src="https://github.com/user-attachments/assets/b8343b52-e987-4131-a8de-c03f7c4703aa" />
+
 - Dock mode
 
