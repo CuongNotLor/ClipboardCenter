@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="NO" userDefinedModelVersionIdentifier="">
+    <entity name="ClipboardItemEntity" representedClassName="ClipboardItemEntity" syncable="YES">
+        <attribute name="contentHash" attributeType="String"/>
+        <attribute name="contentTypeRaw" attributeType="String" defaultValueString="text"/>
+        <attribute name="fileURLsJSON" optional="YES" attributeType="String"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="isPinned" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="rtfData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="textContent" optional="YES" attributeType="String"/>
+        <attribute name="thumbnailData" optional="YES" attributeType="Binary"/>
+        <attribute name="timestamp" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+</model>
